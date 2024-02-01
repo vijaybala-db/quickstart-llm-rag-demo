@@ -11,3 +11,7 @@ install --> run1(Run workbook 1);
 run1 --> svc(Setup service account);
 svc --> run2(Run workbook 2);
 ```
+
+#### Step 1 - Login
+
+![login](media/01-login.png)
