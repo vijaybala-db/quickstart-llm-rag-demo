@@ -1,0 +1,5 @@
+graph LR;
+email(<b>Email</b>\n\nInvitation to workspace);
+email-->|sign in| workspace(Workspace);
+workspace -->|create| token(Personal access token);
+token -->|configure| cli(Databricks CLI);
