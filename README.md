@@ -26,5 +26,6 @@ https://github.com/vijaybala-db/quickstart-llm-rag-demo/assets/101297797/6dffd9c
 
 ![service_acct](./media/04-setup-service-account.png)
 
+https://github.com/vijaybala-db/quickstart-llm-rag-demo/assets/101297797/ecc7fe11-4fbf-4e2b-9577-db8eaccfc333
 
 <hr>
