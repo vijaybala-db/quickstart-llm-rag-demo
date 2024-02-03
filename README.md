@@ -12,8 +12,20 @@ run1 --> svc(Setup service account);
 svc --> run2(Run workbook 2);
 ```
 
+<hr>
+
 #### Step 1 - Login
 
 ![login](media/01-login.png)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VOo0V6lDfp8?si=ntAXJP5ONWenCuRO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<a href="https://youtu.be/7nsBBZDXHro">
+<img src="./media/thumbnail-setup-service-account.jpg" width="80%" style="display:block; margin-left: auto; margin-right:auto;">
+<div style="text-align:center">Watch on YouTube</div>
+</a>
+<br>
+<hr>
+
+
+#### Step 4 - Setup Service Account
+
+![service_acct](./media/04-setup-service-account.png)
