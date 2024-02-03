@@ -28,6 +28,10 @@ svc --> run2(Run workbook 2);
 <hr>
 
 
+https://github.com/vijaybala-db/quickstart-llm-rag-demo/assets/101297797/6dffd9c9-f8b8-42cd-bf7e-9d205a3fe1b7
+
+
+
 #### Step 4 - Setup Service Account
 
 ![service_acct](./media/04-setup-service-account.png)
